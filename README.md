@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Projeto Links" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Links" src=".github/Cover.jpg" width="100%">
 </p>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:

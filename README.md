@@ -10,9 +10,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--HTML5 e CSS3
--JavaScript
--Git e Github
+-HTML5 e CSS3 <br>
+-JavaScript <br>
+-Git e Github <br>
 -Figma
 
 O Projeto Links é um agregador de links para usar como cartão de visitas online.

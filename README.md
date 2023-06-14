@@ -17,6 +17,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto Links é um agregador de links para usar como cartão de visitas online.
 
-Você pode visualizar o layout do projeto através [DESSE LINK] (). É necessário ter conta no [Figma] (https://figma.com) para acessá-lo. 
+Você pode visualizar o layout do projeto através [DESSE LINK] (https://www.figma.com/file/dh0x1PfKtwPlScMquA323H/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=0-1&t=JIawyBVIcXAWuH0F-0). É necessário ter conta no [Figma] (https://figma.com) para acessá-lo. 
 
 Projeto feito by Guilherme Nascimento Greca!

@@ -4,9 +4,7 @@
   primeiro projeto pessoal aplicando conhecimentos adquiridos para a criação do meu portfolio.
 </p>
 
-<p align="center">
-  <img alt="Projeto Links" src="./assets/preview.jpg" width="100%">
-</p>
+![Links](https://github.com/GuilhermeNGreca/ProjetoLinks/assets/125670318/9b4bcd25-6b1d-47de-a8f2-3b5be02cba06)
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 

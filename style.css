@@ -57,6 +57,14 @@ body * {
   line-height: 24px;
 }
 
+#profile a {
+  text-decoration: none;
+}
+
+#profile a:hover {
+  opacity: 0.6;
+}
+
 /* Switch */
 #switch {
   position: relative;
